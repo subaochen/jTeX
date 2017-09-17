@@ -1,0 +1,6 @@
+**/code/**/out/
+**/*.bak
+**/#*.*#
+**/*.class
+**/*.swp
+**/.idea/workspace.xml
