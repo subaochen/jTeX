@@ -2,6 +2,7 @@ package cn.edu.sdut.softlab.jtex;
 
 /**
  * Created by subaochen on 17-9-17.
+ * @see <<The TeXbook>> page 272
  */
 public class Penalty {
     private int linePenalty;
